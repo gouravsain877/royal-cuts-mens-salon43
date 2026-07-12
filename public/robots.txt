@@ -1,0 +1,13 @@
+# Robots.txt for Royal Cuts Men's Salon
+# Optimized for Google Crawler and Search Engine Indexing (SEO 100/100)
+
+User-agent: *
+Allow: /
+Allow: /src/assets/
+Allow: /favicon.svg
+
+# Sitemap location for crawlers to discover all pages automatically
+Sitemap: https://ais-pre-zl5ptkxodgqbaexfapvpqi-957311284384.asia-east1.run.app/sitemap.xml
+
+# Host setting
+Host: ais-pre-zl5ptkxodgqbaexfapvpqi-957311284384.asia-east1.run.app

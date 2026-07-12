@@ -1,0 +1,6 @@
+{
+  "name": "Royal Cuts Men's Salon",
+  "description": "Premium local grooming studio in Najafgarh, Delhi. Modern haircuts, beard styling, facials, and luxury packages with online appointment scheduling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
